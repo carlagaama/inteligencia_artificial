@@ -5,5 +5,6 @@ Algoritmos de clusterização: k-médias, single-link e average-link sobre datas
 Integrantes: 
 Bruno Donato Banhos, Carla Simões Gama, Daniel Liberato, José Gabriel.
 
-k-médias: Java
-single-link e average-link: Python
+k-médias: Java. 
+
+single-link e average-link: Python.
